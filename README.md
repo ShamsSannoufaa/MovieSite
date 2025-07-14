@@ -41,10 +41,13 @@ Tarayıcınızda otomatik olarak şu adreste çalışacaktır:
 
 Ortam Değişkenleri
 TMDB API anahtarınızı .env dosyasına şu şekilde ekleyin:
+```bash
 REACT_APP_TMDB_API_KEY=your_api_key_here
-
+```
 
 Proje Dosya Yapısı
+
+```bash
 MovieSite/
 ├── public/
 ├── src/
@@ -57,6 +60,7 @@ MovieSite/
 ├── screenshots/
 │   └── homepage.png
 └── README.md
+```
 
 👩‍💻 Geliştirici
 Shams Sannoufa
