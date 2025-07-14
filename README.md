@@ -23,7 +23,7 @@ MovieSite, kullanıcıların en yeni filmleri keşfetmesini, detaylarına ulaşm
 
 Ana sayfa görünümü:
 
-![Ana Sayfa Görünümü](screenshots/homepage.png)
+![Ana Sayfa Görünümü](homepage.png)
 
 ## ⚙️ Kurulum
 
